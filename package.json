@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JayFliz/netlify/issues"
   },
-  "homepage": "https://github.com/JayFliz/netlify#readme"
+  "homepage": "https://github.com/JayFliz/netlify#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
 }
